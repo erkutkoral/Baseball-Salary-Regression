@@ -1,4 +1,4 @@
-![image](https://github.com/erkutkoral/Baseball-Salary-Regression/assets/107303322/8412716f-74cb-4128-a3b4-23b2c5f8e309)<br/>
+<br/>
 <p align="center">
   <a href="https://github.com/erkutkoral/Baseball-Salary-Regression">
     <img src="https://i.pinimg.com/736x/84/6a/b3/846ab377179c48a462725debbd475152.jpg" alt="Logo" width="400" height="400">
